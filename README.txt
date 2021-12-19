@@ -4,4 +4,4 @@ This code was created in PyCharm with the 'opencv-python' python package install
 
 Steps: 
 File -> Settings -> Project -> Python Interpreter -> Python 3.9 -> + -> opencv-python
-Then you should be able to run the code propely.
+Then you should be able to run the code properly.
